@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhammadHelmyOmar
 - 👀 I’m interested in Data Science and AI
-- 🌱 I’m currently learning Math and Algorithms
+- 🌱 I’m currently learning ML and Algorithms
 - 💞️ I’m looking to collaborate on any project that can add value
 - 📫 How to reach me? Send me an email: muhammadhelmymmo@gmail.com
 
